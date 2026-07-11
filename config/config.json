@@ -1,0 +1,11 @@
+{
+    "digest_interval_minutes": 30,
+    "batch_size": 5,
+    "temperature": 0.95,
+    "top_p": 0.95,
+    "max_tokens": 2000,
+    "silent_threshold": 3,
+    "model_name": "deepseek-chat",
+    "api_base": "https://api.deepseek.com/v1",
+    "api_key": "YOUR_API_KEY_HERE"
+}
