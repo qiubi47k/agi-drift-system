@@ -1,0 +1,215 @@
+{
+  "rules": {
+    "预演产物锚定协议": {
+      "trigger_count": 2,
+      "effective_count": 2,
+      "last_triggered_round": 7,
+      "created_round": 5,
+      "utility_score": 2.0
+    },
+    "分形奇点维数计算规则": {
+      "trigger_count": 2,
+      "effective_count": 2,
+      "last_triggered_round": 5,
+      "created_round": 2,
+      "utility_score": 2.0
+    },
+    "非交换认知观测操作化规则": {
+      "trigger_count": 2,
+      "effective_count": 2,
+      "last_triggered_round": 4,
+      "created_round": 2,
+      "utility_score": 2.0
+    },
+    "盲区边界代数操作协议": {
+      "trigger_count": 1,
+      "effective_count": 1,
+      "last_triggered_round": 2,
+      "created_round": 2,
+      "utility_score": 1.0
+    },
+    "p-adic瞬子编年史检查": {
+      "trigger_count": 1,
+      "effective_count": 1,
+      "last_triggered_round": 2,
+      "created_round": 2,
+      "utility_score": 1.0
+    },
+    "缺口-命题映射检查": {
+      "trigger_count": 1,
+      "effective_count": 1,
+      "last_triggered_round": 3,
+      "created_round": 3,
+      "utility_score": 1.0
+    },
+    "二阶规范场范畴操作协议": {
+      "trigger_count": 1,
+      "effective_count": 1,
+      "last_triggered_round": 8,
+      "created_round": 8,
+      "utility_score": 1.0
+    },
+    "拓扑荷同伦群映射协议": {
+      "trigger_count": 1,
+      "effective_count": 1,
+      "last_triggered_round": 8,
+      "created_round": 8,
+      "utility_score": 1.0
+    },
+    "编织-熵结算子对偶检查": {
+      "trigger_count": 1,
+      "effective_count": 1,
+      "last_triggered_round": 11,
+      "created_round": 11,
+      "utility_score": 1.0
+    },
+    "负温度奇点符号注册检查": {
+      "trigger_count": 1,
+      "effective_count": 1,
+      "last_triggered_round": 11,
+      "created_round": 11,
+      "utility_score": 1.0
+    },
+    "元-消解协议检查": {
+      "trigger_count": 2,
+      "effective_count": 2,
+      "last_triggered_round": 7,
+      "created_round": 5,
+      "utility_score": 2.0
+    },
+    "自指熵核临界冻结检查": {
+      "trigger_count": 1,
+      "effective_count": 1,
+      "last_triggered_round": 5,
+      "created_round": 5,
+      "utility_score": 1.0
+    },
+    "预演产物锚定协议（修订）": {
+      "trigger_count": 1,
+      "effective_count": 1,
+      "last_triggered_round": 7,
+      "created_round": 7,
+      "utility_score": 1.0
+    },
+    "元-消解协议检查（修订）": {
+      "trigger_count": 1,
+      "effective_count": 1,
+      "last_triggered_round": 7,
+      "created_round": 7,
+      "utility_score": 1.0
+    },
+    "元反应一致性检查": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "元反应熵预警": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "不可判定命题检查": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "元反应熵梯度检查": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "哥德尔波动中断协议": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "波动模式强制比对": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "元反应拓扑冻结检测": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "不可判定命题的拓扑冻结标记": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "截断素材恢复协议": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "元反应层级突破检查": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "第13轮缺口锚定协议": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "元-语法自我修复检查": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "自指熵操作化协议": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "自指熵操作化唯一性检查": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "混沌边缘流形推演协议": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    },
+    "推演过程自反性检查": {
+      "trigger_count": 0,
+      "effective_count": 0,
+      "last_triggered_round": 17,
+      "created_round": 17,
+      "utility_score": 0.0
+    }
+  },
+  "last_cleanup_round": 15
+}
